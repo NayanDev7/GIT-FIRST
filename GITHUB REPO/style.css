@@ -1,0 +1,26 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ html,body{
+    height: 100%;
+    width: 100%;
+ }
+
+ #bg{
+    height: 100%;
+    width: 100%;
+    background-image: url('./download.jpeg');
+    background-size: contain;
+ }
+
+ h1{
+    color:yellow;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    
+ }
+
